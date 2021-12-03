@@ -5,7 +5,7 @@ const config = {
 	theme: {
 		extend: {
       backgroundImage: {
-        'search-section-bg': "url('/static/images/background.webp')",
+        'search-section-bg': "url('/images/background.webp')",
       },
       fontFamily: {
         'cursive': ['Lobster']

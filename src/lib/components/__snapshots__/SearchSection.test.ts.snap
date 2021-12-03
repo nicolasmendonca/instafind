@@ -18,7 +18,7 @@ exports[`matches the snapshot 1`] = `
         <img
           alt=""
           class="w-4 h-4 ml-2"
-          src="/static/icons/lens.svg"
+          src="/icons/lens.svg"
         />
          
         <input

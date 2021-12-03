@@ -6,7 +6,7 @@
 	<form
 		class="bg-white flex items-center rounded-lg focus-within:ring focus-within:border-purple-300 "
 	>
-		<img src="/static/icons/lens.svg" alt="" class="w-4 h-4 ml-2" />
+		<img src="/icons/lens.svg" alt="" class="w-4 h-4 ml-2" />
 		<input
 			type="search"
 			class="px-4 rounded-md focus:outline-none"
