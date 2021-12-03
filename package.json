@@ -16,6 +16,7 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
+		"@sveltejs/adapter-vercel": "next",
 		"@testing-library/jest-dom": "^5.15.1",
 		"@testing-library/svelte": "^3.0.3",
 		"@types/cookie": "^0.4.1",
