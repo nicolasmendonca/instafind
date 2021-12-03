@@ -1,0 +1,14 @@
+<section aria-label="Categories" class="bg-gray-100 grid grid-cols-3 gap-8 px-8 py-8">
+	<div class="flex flex-col items-center space-y-2">
+		<div class="h-16 w-16 bg-purple-600 rounded-full" />
+		<h3 class="text-sm">Indumentaria</h3>
+	</div>
+	<div class="flex flex-col items-center space-y-2">
+		<div class="h-16 w-16 bg-purple-600 rounded-full" />
+		<h3 class="text-sm">Indumentaria</h3>
+	</div>
+	<div class="flex flex-col items-center space-y-2">
+		<div class="h-16 w-16 bg-purple-600 rounded-full" />
+		<h3 class="text-sm">Indumentaria</h3>
+	</div>
+</section>
